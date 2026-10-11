@@ -1,0 +1,12 @@
+[
+  {
+    "routine_id": "1",
+    "name": "Full Body Strength",
+    "muscle_group": "Full Body"
+  },
+  {
+    "routine_id": "2",
+    "name": "Upper Body Hypertrophy",
+    "muscle_group": "Chest & Back"
+  }
+]
