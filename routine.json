@@ -7,7 +7,7 @@
       {
         "name": "Barbell Bench Press",
         "category": "Chest",
-        "sets": "three", 
+        "sets": 3, 
         "reps": 10
       },
       {
