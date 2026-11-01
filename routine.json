@@ -1,31 +1,12 @@
 [
   {
     "routine_id": "1",
-    "name": null, 
     "description": "Chest, Shoulders, Triceps",
     "exercises": [
       {
-        "name": "Barbell Bench Press",
         "category": "Chest",
-        "sets": 3, 
+        "sets": 3,
         "reps": 10
-      },
-      {
-        "name": null, 
-        "category": "Shoulders",
-        "sets": 3,
-        "reps": 8
-      }
-    ]
-  },
-  {
-    "routine_id": "2",
-    "name": "Leg Day",
-    "exercises": [
-      {
-        "category": "Quads",
-        "sets": 3,
-        "reps": 12
       }
     ]
   }
