@@ -1,12 +1,14 @@
 [
   {
     "routine_id": "1",
-    "description": "Chest, Shoulders, Triceps",
+    "name": null,
+    "description": null,
     "exercises": [
       {
+        "name": null,
         "category": "Chest",
-        "sets": 3,
-        "reps": 10
+        "sets": null,
+        "reps": null
       }
     ]
   }
