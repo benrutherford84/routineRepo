@@ -1,14 +1,158 @@
+
 [
   {
     "routine_id": "1",
-    "name": null,
-    "description": null,
+    "name": "Push Day",
+    "description": "Chest, Shoulders, Triceps",
     "exercises": [
       {
-        "name": null,
+        "name": "Barbell Bench Press",
         "category": "Chest",
-        "sets": null,
-        "reps": null
+        "sets": 3,
+        "reps": 10
+      },
+      {
+        "name": "Shoulder Press",
+        "category": "Shoulders",
+        "sets": 3,
+        "reps": 8
+      },
+      {
+        "name": "Tricep Pushdown",
+        "category": "Tricep",
+        "sets": 3,
+        "reps": 8
+      }
+    ]
+  },
+  {
+    "routine_id": "2",
+    "name": "Leg Day",
+    "description": "Quads, Hamstrings, Calves, Glutes",
+    "exercises": [
+      {
+        "name": "Leg Extension",
+        "category": "Quads",
+        "sets": 3,
+        "reps": 12
+      },
+      {
+        "name": "Leg Curls",
+        "category": "Hamstrings",
+        "sets": 3,
+        "reps": 10
+      },
+      {
+        "name": "Hip Thrust",
+        "category": "Glutes",
+        "sets": 3,
+        "reps": 8
+      },
+      {
+        "name": "Calf Raises",
+        "category": "Calves",
+        "sets": 3,
+        "reps": 8
+      }
+    ]
+  },
+  {
+    "routine_id": "3",
+    "name": "Pull Day",
+    "description": "Back, Biceps",
+    "exercises": [
+      {
+        "name": "Pull ups",
+        "category": "Back",
+        "sets": 3,
+        "reps": 10
+      },
+      {
+        "name": "Preacher Curls",
+        "category": "Biceps",
+        "sets": 3,
+        "reps": 12
+      },
+      {
+        "name": "T-Bar Rows",
+        "category": "Back",
+        "sets": 3,
+        "reps": 8
+      }
+    ]
+  },
+  {
+    "routine_id": "4",
+    "name": "Upper Day",
+    "description": "Back, Biceps, Chest, Triceps, Shoulders",
+    "exercises": [
+      {
+        "name": "Lat Pulldown",
+        "category": "Back",
+        "sets": 2,
+        "reps": 8
+      },
+      {
+        "name": "Hammer Curls",
+        "category": "Biceps",
+        "sets": 2,
+        "reps": 8
+      },
+      {
+        "name": "Incline Dumbell Bench",
+        "category": "Chest",
+        "sets": 2,
+        "reps": 8
+      },
+      {
+        "name": "Lateral Raises",
+        "category": "Shoulders",
+        "sets": 2,
+        "reps": 8
+      },
+      {
+        "name": "Single Arm Pushdowns",
+        "category": "Tricep",
+        "sets": 2,
+        "reps": 8
+      }
+      
+    ]
+  },
+  {
+    "routine_id": "5",
+    "name": "Lower Day",
+    "description": "Quads, Hamstrings, Glutes, Calves, Abs",
+    "exercises": [
+      {
+        "name": "Leg Extension",
+        "category": "Quads",
+        "sets": 2,
+        "reps": 8
+      },
+      {
+        "name": "Leg Curls",
+        "category": "Hamstrings",
+        "sets": 2,
+        "reps": 8
+      },
+      {
+        "name": "Hip Thrust",
+        "category": "Glutes",
+        "sets": 2,
+        "reps": 8
+      },
+      {
+        "name": "Calf Raises",
+        "category": "Calves",
+        "sets": 2,
+        "reps": 8
+      },
+      {
+        "name": "Crunches",
+        "category": "Abs",
+        "sets": 2,
+        "reps": 8
       }
     ]
   }
